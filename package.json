@@ -1,0 +1,19 @@
+{
+  "name": "author",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape-dosen-pagination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "jsdom": "^27.4.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^2.7.0"
+  }
+}

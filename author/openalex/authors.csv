@@ -1,0 +1,245 @@
+id,id_sinta,nidn,fullname,country,academic_grade_raw,academic_grade,gelar_depan,gelar_belakang,last_education,sinta_score_v2_overall,sinta_score_v2_3year,sinta_score_v3_overall,sinta_score_v3_3year,affiliation_score_v3_overall,affiliation_score_v3_3year,affiliation_id,affiliation_code,affiliation_name,programs_code,programs_level,programs_name
+1,257962,0410036002,EDDY SURYANTO SOEGOTO,ID,professor,Profesor,Dr Ir,M.T,S3,6002,2615,3960,754,0,0,528,041027,Universitas Komputer Indonesia,61001,S3,Ilmu Manajemen
+2,5985954,0405047901,IRAWAN AFRIANTO,ID,assocprof,Lektor Kepala,,"S.T, M.T",S2,2294,663,2183,604,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+3,6754370,0420028204,SENNY LUCKYARDI,ID,tutor,Lektor,Dr,"S.P, M.M.",S3,3961,2929,1556,661,0,0,528,041027,Universitas Komputer Indonesia,61404,D3,Manajemen Pemasaran
+4,5981885,0420017201,CHERRY DHARMAWAN,ID,seniorlecturer,Lektor,,"S.Sn, M.Sn",S2,116,0,701,291,0,0,528,041027,Universitas Komputer Indonesia,90221,S1,Desain Interior
+5,258260,0416126901,TARYANA SURYANA,ID,seniorlecturer,Lektor,Ir,M.Kom,S2,693,49,1546,289,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+6,5999039,0013036501,UMI NARIMAWATI,ID,professor,Profesor,Dr,"S.E., M.Si",S3,2566,1497,2100,542,0,0,528,041027,Universitas Komputer Indonesia,61001,S3,Ilmu Manajemen
+7,258729,0416098601,MOCHAMAD FAJAR WICAKSONO,ID,seniorlecturer,Lektor Kepala,,"S.Kom, M.Kom",S2,1257,230,927,154,0,0,528,041027,Universitas Komputer Indonesia,56401,D3,Teknik Komputer
+8,258622,0429057503,WAHYUNI,ID,seniorlecturer,Lektor,,"S.Si, M.T",S2,6292,3004,2985,570,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+9,257844,0026086101,LIA WARLINA,ID,assocprof,Profesor,Dr Ir,M.Si,S3,1777,799,1577,426,0,0,528,041027,Universitas Komputer Indonesia,35201,S1,Teknik Perencanaan Wilayah Dan Kota
+10,258595,0413127602,SRI DEWI ANGGADINI,ID,assocprof,Lektor Kepala,Doktor,"S.E., M.Si",S3,1359,477,1607,388,0,0,528,041027,Universitas Komputer Indonesia,62201,S1,Akuntansi
+11,259618,0408086103,SAHAT MARULI TUA SITUMEANG,ID,tutor,Lektor Kepala,Dr,"S.H., M.H",S3,661,115,769,198,0,0,528,041027,Universitas Komputer Indonesia,74201,S1,Ilmu Hukum
+12,258768,0408118001,SUFA ATIN,ID,seniorlecturer,Lektor,,"S.T, M.Kom",S2,1357,364,1221,278,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+13,258616,0426118501,SYAHRUL MAULUDDIN,ID,assocprof,Lektor Kepala,,"S.Kom, M.Kom",S2,926,261,1054,177,0,0,528,041027,Universitas Komputer Indonesia,57401,D3,Manajemen Informatika
+14,258587,0411037501,LILIS PUSPITAWATI,ID,tutor,Lektor Kepala,Dr,"S.E., M.Si, Ak",S3,1637,715,1240,410,0,0,528,041027,Universitas Komputer Indonesia,62201,S1,Akuntansi
+15,6005094,0428088401,SRI SUPATMI,ID,seniorlecturer,Lektor,,"S.Kom, M.T, D.Sc",S3,1236,522,1051,405,0,0,528,041027,Universitas Komputer Indonesia,57101,S2,Sistem Informasi
+16,5999480,0422118501,IRFAN DWIGUNA SUMITRA,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom, P.h D",S3,1335,0,1165,46,0,0,528,041027,Universitas Komputer Indonesia,57101,S2,Sistem Informasi
+17,6803105,41272001191,DINA OKTAFIANI,ID,penelitipertama,,,,,1436,991,461,223,0,0,528,041027,Universitas Komputer Indonesia,0,,
+18,258601,0009077509,AGUS NURSIKUWAGUS,ID,seniorlecturer,Lektor Kepala,Dr,"S.T, M.M., M.T",S3,1247,303,879,240,0,0,528,041027,Universitas Komputer Indonesia,57401,D3,Manajemen Informatika
+19,5977885,0429096503,ISNIAR BUDIARTI,ID,assocprof,Lektor Kepala,Dr,"S.E., M.Si, M.Si",S3,815,382,770,154,0,0,528,041027,Universitas Komputer Indonesia,61001,S3,Ilmu Manajemen
+20,258693,0403038002,MARLIANA BUDHININGTIAS WINANTI,ID,seniorlecturer,Lektor,Dr.,"S.Si, M.Si",S3,766,142,781,258,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+21,257836,0407078404,BOBI KURNIAWAN SOEGOTO,ID,assocprof,Lektor Kepala,,"S.T, M.Kom",S2,1631,531,1247,338,0,0,528,041027,Universitas Komputer Indonesia,20201,S1,Teknik Elektro
+22,258871,0427117801,SRI NURHAYATI,ID,assocprof,Lektor Kepala,,"S.Si, M.T",S2,1024,317,746,200,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+23,258932,0426107401,PONI SUKAESIH KURNIATI,ID,seniorlecturer,Lektor Kepala,Dr,"S.IP, M.Si",S3,1307,682,987,393,0,0,528,041027,Universitas Komputer Indonesia,65201,S1,Ilmu Pemerintahan
+24,258935,0410117902,MUHAMMAD ARIA RAJASA,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,1410,520,1018,288,0,0,528,041027,Universitas Komputer Indonesia,20201,S1,Teknik Elektro
+25,259139,0401057501,DEWI KURNIASIH,ID,seniorlecturer,Lektor Kepala,Dr,"S.IP, M.Si",S3,1116,395,894,311,0,0,528,041027,Universitas Komputer Indonesia,65201,S1,Ilmu Pemerintahan
+26,258673,0426068901,MYRNA DWI RAHMATYA,ID,lecturer,Lektor Kepala,,"S.Kom, M.Kom",S2,986,303,645,180,0,0,528,041027,Universitas Komputer Indonesia,57401,D3,Manajemen Informatika
+27,258554,0422077101,ELY SUHAYATI,ID,assocprof,Lektor Kepala,Dr,"S.E., M.Si",S3,831,149,794,178,0,0,528,041027,Universitas Komputer Indonesia,62201,S1,Akuntansi
+28,258641,0420018002,SUPRIYATI,ID,seniorlecturer,Lektor,Dr.,"S.E., Ak, M.Si",S3,1032,371,828,296,0,0,528,041027,Universitas Komputer Indonesia,57402,D3,Komputerisasi Akuntansi
+29,258851,0405068601,ADAM MUKHARIL BACHTIAR,ID,seniorlecturer,Lektor,,"S.Kom, M.T",S2,1077,154,872,103,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+30,6803098,41272101197,AGIS ABHI RAFDHI,ID,professor,,,,,1671,1330,483,310,0,0,528,041027,Universitas Komputer Indonesia,0,,
+31,6035744,0419027701,MELLY MAULIN PURWANINGWULAN,ID,seniorlecturer,Lektor Kepala,Dr.Sos.,"S.Sos, M.Si",S3,379,77,775,201,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+32,258195,0408117302,DEDI SULISTYO SOEGOTO,ID,seniorlecturer,Lektor,Dr,"S.T, M.T",S3,1099,450,738,174,0,0,528,041027,Universitas Komputer Indonesia,61101,S2,Manajemen
+33,6104317,0418048402,ALIF FINANDHITA,ID,lecturer,Asisten Ahli,,"S.Kom, M.T",S2,434,110,475,93,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+34,258299,0425027702,SONI MULYAWAN SETIANA,ID,assocprof,Lektor Kepala,Dr,"S.Pd, M.Pd",S3,587,176,684,217,0,0,528,041027,Universitas Komputer Indonesia,79204,S1,Sastra Jepang
+35,6003825,0401087401,DIANA ANDRIANI,ID,tutor,Lektor,Dr,"S.T, M.M., M.T",S3,1095,0,543,26,0,0,528,041027,Universitas Komputer Indonesia,26201,S1,Teknik Industri
+36,6003865,0415088802,HANHAN MAULANA,ID,tutor,Asisten Ahli,,"S.Kom, M.Kom, Ph.D",S3,990,317,583,196,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+37,5999088,0431057901,HIDAYAT,ID,seniorlecturer,Lektor Kepala,Dr,"S.Kom, M.T",S3,675,232,597,141,0,0,528,041027,Universitas Komputer Indonesia,56401,D3,Teknik Komputer
+38,258821,0401037901,DIAN DHARMAYANTI,ID,seniorlecturer,Lektor,,"S.T, M.Kom",S2,605,147,627,110,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+39,258867,0413067901,ANDRI HERYANDI,ID,seniorlecturer,Lektor,,"S.T, M.T.",S2,458,0,545,39,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+40,5997124,0413078307,ARJUNA RIZALDI,ID,lecturer,Asisten Ahli,,"S.E., M.A",S2,303,35,461,85,0,0,528,041027,Universitas Komputer Indonesia,61404,D3,Manajemen Pemasaran
+41,6003867,0420058601,EKO BUDI SETIAWAN,ID,assocprof,Lektor Kepala,,"S.Kom, M.T",S2,1452,167,1203,143,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+42,5999373,0407077601,HENNY,ID,seniorlecturer,Lektor,Dr,"S.T, M.T",S3,487,152,550,171,0,0,528,041027,Universitas Komputer Indonesia,26201,S1,Teknik Industri
+43,258776,0409057201,RIANI LUBIS,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,456,0,534,63,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+44,259067,0426097201,YEFFRY HANDOKO PUTRA,ID,seniorlecturer,Lektor,Dr,"S.T, M.T",S3,1159,229,973,196,0,0,528,041027,Universitas Komputer Indonesia,57101,S2,Sistem Informasi
+45,258732,0407038601,RANI SUSANTO,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,1028,79,920,77,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+46,6008206,0427127301,SALMON PRIAJI MARTANA,ID,seniorlecturer,Lektor,,"M.T, S.T",S3,228,0,392,54,0,0,528,041027,Universitas Komputer Indonesia,23201,S1,Teknik Arsitektur
+47,258739,0408028102,TATIK ROHMAWATI,ID,seniorlecturer,Lektor,,"S.IP, M.Si",S2,543,53,537,153,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+48,6066614,0415128104,MUHAMMAD RAYHAN BUSTAM,ID,seniorlecturer,Lektor,,"S.S., M.Hum",S2,400,129,456,190,0,0,528,041027,Universitas Komputer Indonesia,79202,S1,Sastra Inggris
+49,258596,0420047801,DIANA EFFENDI,ID,seniorlecturer,Lektor Kepala,,"S.T, M.T",S2,582,149,630,225,0,0,528,041027,Universitas Komputer Indonesia,57401,D3,Manajemen Informatika
+50,258591,0014087401,SITI KURNIA RAHAYU,ID,assocprof,Lektor Kepala,Dr,"S.E., M.Ak.",S3,721,17,829,81,0,0,528,041027,Universitas Komputer Indonesia,62201,S1,Akuntansi
+51,5987192,0402076802,RAHMA WAHDINIWATY,ID,seniorlecturer,Lektor Kepala,Dr Dra,M.Si,S3,762,252,774,226,0,0,528,041027,Universitas Komputer Indonesia,61101,S2,Manajemen
+52,5979611,0407026607,HERMAN SURDIATNO SOEGOTO,ID,assocprof,Lektor Kepala,Dr Ir,B.A.,S3,865,607,456,153,0,0,528,041027,Universitas Komputer Indonesia,61001,S3,Ilmu Manajemen
+53,258695,0411128601,LEONARDI PARIS HASUGIAN,ID,seniorlecturer,Lektor,,"S.Kom, M.Eng, M.Kom",S2,785,288,895,192,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+54,258632,0406027303,INTA BUDI SETYA NUSA,ID,seniorlecturer,Lektor Kepala,Dr,"S.E., M.Ak.",S3,332,51,400,47,0,0,528,041027,Universitas Komputer Indonesia,62201,S1,Akuntansi
+55,258690,0420118601,RANGGA SIDIK,ID,lecturer,Lektor,,"S.Kom, M.Eng, M.Kom",S2,652,173,814,118,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+56,6675491,0427118904,SOPIAN ALVIANA,ID,tutor,Lektor,,"S.Kom, M.Kom",S2,469,186,560,119,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+57,258716,0430068704,ANDRI SAHATA SITANGGANG,ID,assocprof,Lektor Kepala,,"S.Kom, M.Kom",S2,1307,295,1166,271,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+58,6098702,0411078403,TATIK FIDOWATY,ID,tutor,Lektor,Doctor of Philosophy,"S.IP, M.Si",S3,371,50,292,60,0,0,528,041027,Universitas Komputer Indonesia,65201,S1,Ilmu Pemerintahan
+59,258668,0001107101,NOVRINI HASTI,ID,seniorlecturer,Lektor,,"S.Si, M.T",S2,896,125,672,132,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+60,6002971,0405067702,HETTY HASSANAH,ID,seniorlecturer,Lektor,Dr.,"S.H., M.H.",S3,346,138,326,111,0,0,528,041027,Universitas Komputer Indonesia,74201,S1,Ilmu Hukum
+61,258188,0406098202,TATAN TAWAMI,ID,seniorlecturer,Lektor,Dr,"S.S., M.Hum",S3,702,288,452,169,0,0,528,041027,Universitas Komputer Indonesia,79202,S1,Sastra Inggris
+62,5977822,0401037401,SURTIKANTI,ID,lecturer,Lektor,Dr,"S.E., M.Si",S3,366,116,404,101,0,0,528,041027,Universitas Komputer Indonesia,62201,S1,Akuntansi
+63,6004750,0408067801,DEWI TRIWAHYUNI,ID,seniorlecturer,Lektor,Dr.,"S.IP, M.Si",S3,211,71,426,120,0,0,528,041027,Universitas Komputer Indonesia,64201,S1,Ilmu Hubungan Internasional
+64,258737,0430108601,ANGGA SETIYADI,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,1216,135,928,122,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+65,5973299,41277004019,"BUDI HERDIANA, ST,MT",ID,assocprof,,,,,666,212,520,174,0,0,528,041027,Universitas Komputer Indonesia,0,,
+66,6006052,0410028101,RINI MAULINA,ID,assocprof,Lektor Kepala,Dr,"S.Sn, M.Sn",S3,237,98,554,72,0,0,528,041027,Universitas Komputer Indonesia,90102,S2,Desain
+67,258605,0412077204,ADEH RATNA KOMALA,ID,seniorlecturer,Lektor Kepala,Dr,"S.E., M.Si",S3,621,225,525,122,0,0,528,041027,Universitas Komputer Indonesia,62401,D3,Akuntansi
+68,258870,0408107701,SELVIA LORENA BR GINTING,ID,seniorlecturer,Lektor,,"S.Si, M.T",S2,672,0,501,36,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+69,258853,0412078001,IRFAN MALIKI,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,490,166,612,136,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+70,5998751,0421116601,DHINI DEWIYANTI,ID,assocprof,Lektor Kepala,Dr Ir,M.T,S3,369,136,459,142,0,0,528,041027,Universitas Komputer Indonesia,23201,S1,Teknik Arsitektur
+71,259621,0417058202,MUSA DARWIN PANE,ID,seniorlecturer,Lektor Kepala,Dr,"S.H., M.H",S3,375,20,330,56,0,0,528,041027,Universitas Komputer Indonesia,74201,S1,Ilmu Hukum
+72,5991988,0411068810,DEDENG HIRAWAN,ID,tutor,Asisten Ahli,,"S.Kom, M.Kom",S2,440,187,415,71,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+73,258659,0010105803,WANITA SUBADRA ABIOSO,ID,assocprof,,,,,208,0,361,36,0,0,528,041027,Universitas Komputer Indonesia,0,,
+74,6666078,0406047602,Y. DJOKO SETIYARTO,ID,seniorlecturer,Lektor,Dr,"S.T, M.T",S3,257,21,430,125,0,0,528,041027,Universitas Komputer Indonesia,22201,S1,Teknik Sipil
+75,258880,0408078101,AGUS MULYANA,ID,seniorlecturer,Lektor,,"S.Kom, M.T",S2,333,36,245,9,0,0,528,041027,Universitas Komputer Indonesia,56401,D3,Teknik Komputer
+76,259065,0418057501,NIA KARNIAWATI,ID,seniorlecturer,Lektor Kepala,Dr.,"S.IP, M.Si",S3,381,215,326,116,0,0,528,041027,Universitas Komputer Indonesia,65201,S1,Ilmu Pemerintahan
+77,258697,0409048901,RANI PUSPITA DHANIAWATY,ID,lecturer,Lektor,,"S.Kom, M.Kom",S2,526,180,668,214,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+78,5987238,0425016303,SYAHRUL,ID,assocprof,Lektor Kepala,Ir,M.T,S2,618,114,443,76,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+79,258564,0412127101,RAENI DWI SANTY,ID,seniorlecturer,Lektor Kepala,Dr,"S.E., M.Si",S3,472,140,794,142,0,0,528,041027,Universitas Komputer Indonesia,61101,S2,Manajemen
+80,258895,0426037902,SUSMINI INDRIANI L,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,417,99,398,92,0,0,528,041027,Universitas Komputer Indonesia,56401,D3,Teknik Komputer
+81,258190,0411037402,RETNO PURWANI SARI,ID,seniorlecturer,Lektor,Dr,"S.S., M.Hum",S3,134,55,235,100,0,0,528,041027,Universitas Komputer Indonesia,79202,S1,Sastra Inggris
+82,6681765,0427019102,DIDIT ANDRI JATMIKO,ID,lecturer,Asisten Ahli,,"S.T, M.T",S2,224,0,402,36,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+83,6034983,0406087702,ANDRIAS DARMAYADI,ID,lecturer,Lektor,,"S.IP, M.Si, Ph.D.",S3,157,94,385,120,0,0,528,041027,Universitas Komputer Indonesia,64201,S1,Ilmu Hubungan Internasional
+84,258948,0431078302,TAUFIQ NUZWIR NIZAR,ID,lecturer,Asisten Ahli,,"S.Kom, M.Kom, M.T",S2,302,17,276,42,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+85,259249,0415066602,DEDEN A WAHAB,ID,assocprof,Lektor Kepala,Doktor,S.P,S3,570,119,763,190,0,0,528,041027,Universitas Komputer Indonesia,61101,S2,Manajemen
+86,6005603,0415078501,INGGAR PRAYOGA,ID,lecturer,Asisten Ahli,,"S.I.Kom, M.I.Kom",S2,112,9,488,50,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+87,6003866,0424028502,JANA UTAMA,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,856,505,704,306,0,0,528,041027,Universitas Komputer Indonesia,20201,S1,Teknik Elektro
+88,6035483,0405048502,RINO ADIBOWO,ID,tutor,Asisten Ahli,,"S.IP, M.Si",S2,515,0,337,21,0,0,528,041027,Universitas Komputer Indonesia,65201,S1,Ilmu Pemerintahan
+89,258726,0429087502,TONO HARTONO,ID,seniorlecturer,Lektor,,"S.Si, M.T",S2,316,15,340,40,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+90,258656,0407087504,NELLY INDRIANI WIDIASTUTI,ID,seniorlecturer,Lektor,,"S.Si, M.T",S2,750,36,639,66,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+91,258688,0427076901,YULLY AMBARSIH EKAWARDHANI,ID,seniorlecturer,Lektor,Dr,"S.Sn, M.Sn",S3,410,231,562,124,0,0,528,041027,Universitas Komputer Indonesia,90102,S2,Desain
+92,6005450,0426108303,VITTA PRATIWI,ID,tutor,Lektor,Dr,"S.T, M.T",S3,250,16,241,39,0,0,528,041027,Universitas Komputer Indonesia,22201,S1,Teknik Sipil
+93,5987175,0411077401,YUSRILA YEKA KERLOOZA,ID,assocprof,Lektor Kepala,Dr,"S.Si, M.T",S3,406,30,507,27,0,0,528,041027,Universitas Komputer Indonesia,57101,S2,Sistem Informasi
+94,258557,0420118501,WINDI NOVIANTI,ID,seniorlecturer,Lektor,,"S.E., M.M.",S2,89,0,654,73,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+95,258633,0416077801,HERY DWI YULIANTO,ID,seniorlecturer,Lektor,,"S.T, M.Kom",S2,383,83,326,44,0,0,528,041027,Universitas Komputer Indonesia,57402,D3,Komputerisasi Akuntansi
+96,258558,0428096702,SUTONO,ID,lecturer,Lektor,,"S.Kom, M.Kom",S2,178,0,345,35,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+97,259128,0425087702,AGUS RIYANTO,ID,assocprof,Lektor Kepala,Dr,"S.T, M.T",S3,533,22,502,68,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+98,5990417,0419018003,EDNAWATI RAINARLI,ID,seniorlecturer,Lektor,Dr,"S.Si, M.Si",S3,420,61,363,56,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+99,6803109,41272101198,HERRY SAPUTRA,ID,,,,,,396,356,107,89,0,0,528,041027,Universitas Komputer Indonesia,0,,
+100,6660741,0416088901,HANI IRMAYANTI,ID,tutor,Asisten Ahli,,"S.Kom, M.Kom",S2,244,0,313,35,0,0,528,041027,Universitas Komputer Indonesia,56401,D3,Teknik Komputer
+101,258694,0416057801,LUSI MELIAN,ID,tutor,Lektor,,"S.Si, M.T",S2,305,78,404,117,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+102,6725600,0414029206,ANGGA FRIYANTO,ID,lecturer,Asisten Ahli,,"S.Kom, M.T",S2,117,1,200,35,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+103,5986858,0421026801,IYAN GUSTIANA,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,391,43,334,23,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+104,258567,0423118901,MUHAMMAD IFFAN,ID,lecturer,Asisten Ahli,,"S.E., M.M.",S2,239,91,600,114,0,0,528,041027,Universitas Komputer Indonesia,61404,D3,Manajemen Pemasaran
+105,5996634,0411088002,IMELDA,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,371,189,573,171,0,0,528,041027,Universitas Komputer Indonesia,57401,D3,Manajemen Informatika
+106,258586,0419076701,WATI ARIS ASTUTI,ID,assocprof,Lektor Kepala,,"S.E., M.Si",S2,548,283,677,223,0,0,528,041027,Universitas Komputer Indonesia,62201,S1,Akuntansi
+107,6004118,0410027601,ALAM SANTOSA,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,157,0,256,44,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+108,6003814,0425077104,JULIAN ROBECCA,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,236,15,197,21,0,0,528,041027,Universitas Komputer Indonesia,26201,S1,Teknik Industri
+109,5983224,0421027340270001,LITA WULANTIKA,ID,seniorlecturer,,,,,523,0,606,34,0,0,528,041027,Universitas Komputer Indonesia,0,,
+110,258891,0412068802,ANNA DARA ANDRIANA,ID,lecturer,Asisten Ahli,,"S.Kom, M.Kom",S2,291,0,428,64,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+111,6724790,0312078802,BELLA HARDIYANA,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,421,40,416,72,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+112,258660,0416059001,RAUF FAUZAN,ID,lecturer,Lektor,,"S.Kom, M.Kom",S2,381,58,529,79,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+113,258566,0430057401,RIZKI ZULFIKAR,ID,tutor,Lektor,Dr,"S.E., M.Si.",S3,545,0,689,52,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+114,258339,0413028601,FEBRY MAHARLIKA,ID,lecturer,Lektor,,"S.Ds, M.Sn",S2,216,50,315,58,0,0,528,041027,Universitas Komputer Indonesia,90221,S1,Desain Interior
+115,6006007,0411047601,USEP MOHAMAD ISHAQ,ID,assocprof,Lektor Kepala,,"S.Si, M.Si,  Ph.D",S3,287,0,271,18,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+116,5999315,0409027901,FENNY FEBRIANTY,ID,seniorlecturer,Lektor,,"S.S., M.Pd",S2,126,29,399,105,0,0,528,041027,Universitas Komputer Indonesia,79204,S1,Sastra Jepang
+117,6101804,0420106302,YANI SYAFEI,ID,professor,Profesor,Dr Ir,M.T,S3,759,424,801,322,0,0,528,041027,Universitas Komputer Indonesia,61001,S3,Ilmu Manajemen
+118,258562,0413087401,LINNA ISMAWATI,ID,seniorlecturer,Lektor,Doktor,"S.E., M.Si",S3,518,20,694,71,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+119,6006605,0426078101,KANKAN KASMANA,ID,seniorlecturer,Lektor,Dr,"S.Sn, M.Ds",S3,204,0,421,42,0,0,528,041027,Universitas Komputer Indonesia,90102,S2,Desain
+120,258701,0411117203,IRWAN TARMAWAN,ID,lecturer,Lektor,,"S.Sn, M.Ds",S2,142,32,427,68,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+121,258626,0406037303,R FENNY SYAFARIANI,ID,seniorlecturer,Lektor,,"S.Si, M.Stat",S2,580,87,508,123,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+122,258639,0431088402,KANIA EVITA DEWI,ID,seniorlecturer,Lektor,,"M.Si, M.Si",S2,289,21,402,66,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+123,258905,0426117405,WENDI ZARMAN,ID,seniorlecturer,Lektor,Dr,"S.Si, M.Si",S3,349,22,426,107,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+124,6802923,41271901183,THERESIA VALENTINA LUMBAN GAOL,ID,professor,,,,,308,3,196,10,0,0,528,041027,Universitas Komputer Indonesia,0,,
+125,258610,0408037601,ONY WIDILESTARININGTYAS,ID,lecturer,Asisten Ahli,Dr,"S.E., M.Si",S3,327,0,424,77,0,0,528,041027,Universitas Komputer Indonesia,62401,D3,Akuntansi
+126,259201,0410127001,DESAYU EKA SURYA,ID,lecturer,Lektor,Dr,"S.Sos, M.Si",S3,568,52,510,63,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+127,6004157,0402117401,IYAN ANDRIANA,ID,tutor,Lektor,,"S.T, M.T",S2,114,0,182,19,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+128,5998802,0425067103,MOHAMAD DONIE AULIA,ID,seniorlecturer,Lektor,Dr,"S.T, M.T",S3,128,30,177,42,0,0,528,041027,Universitas Komputer Indonesia,22201,S1,Teknik Sipil
+129,6005128,0412128001,OLIH SOLIHIN,ID,seniorlecturer,Lektor,,"S.Sos, M.I.Kom",S2,847,441,615,228,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+130,259132,0408078002,ISKANDAR IKBAL,ID,seniorlecturer,Lektor,,"S.T, M.Kom",S2,137,0,365,34,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+131,6005040,0402077703,TATANG SUHERI,ID,lecturer,Asisten Ahli,,"S.T, M.T",S2,107,0,159,0,0,0,528,041027,Universitas Komputer Indonesia,35201,S1,Teknik Perencanaan Wilayah Dan Kota
+132,258560,0416026601,TRUSTORINI HANDAYANI,ID,seniorlecturer,Lektor,,"M.Si, S.E.",S2,57,0,317,53,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+133,258812,0403108402,SYLVIA OCTA PUTRI,ID,tutor,Asisten Ahli,,"S.IP, M.I.Pol.",S2,48,0,291,39,0,0,528,041027,Universitas Komputer Indonesia,64201,S1,Ilmu Hubungan Internasional
+134,6709884,0423019401,FERRY STEPHANUS SUWITA,ID,lecturer,Lektor,,"S.Kom, M.T",S2,183,20,177,62,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+135,258631,0410078101,DONY WALUYA FIRDAUS,ID,seniorlecturer,Lektor,,"S.E., M.Si",S2,998,354,480,105,0,0,528,041027,Universitas Komputer Indonesia,57402,D3,Komputerisasi Akuntansi
+136,258675,0401078107,IVAN KURNIAWAN,ID,lecturer,Lektor,,"S.Sn, M.Ds",S2,162,36,661,62,0,0,528,041027,Universitas Komputer Indonesia,90442,D3,Desain Grafis
+137,258945,0427128703,RODI HARTONO,ID,lecturer,Asisten Ahli,,"S.T, M.T, Ph.D.",S3,897,544,299,76,0,0,528,041027,Universitas Komputer Indonesia,20201,S1,Teknik Elektro
+138,258661,0403078701,JULIAN CHANDRA WIBAWA,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,516,36,582,94,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+139,258727,0428028902,MUHAMMAD RAJAB FACHRIZAL,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,428,66,448,93,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+140,6036313,0428048303,NUNGKI HERIYATI,ID,seniorlecturer,Lektor,Dr,"S.S, M.A",S3,71,1,199,63,0,0,528,041027,Universitas Komputer Indonesia,79202,S1,Sastra Inggris
+141,258619,0425128504,TRI WIDIANTI NATALIA,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,238,0,285,61,0,0,528,041027,Universitas Komputer Indonesia,23201,S1,Teknik Arsitektur
+142,258590,0406029001,ANGKY FEBRIANSYAH,ID,lecturer,Asisten Ahli,,"S.E., M.M.",S2,398,82,328,77,0,0,528,041027,Universitas Komputer Indonesia,62401,D3,Akuntansi
+143,258607,0411058201,DINA FATIMAH,ID,tutor,Lektor,,"S.Ds, M.Ds",S2,383,2,354,60,0,0,528,041027,Universitas Komputer Indonesia,90221,S1,Desain Interior
+144,5999508,0420119001,ANISA ARIANINGSIH,ID,lecturer,Lektor,,"S.Pd, M.Pd",S2,152,68,209,67,0,0,528,041027,Universitas Komputer Indonesia,79204,S1,Sastra Jepang
+145,6668527,0429099202,SELFA SEPTIANI AULIA,ID,tutor,Asisten Ahli,,"S.T, M.T",S2,141,39,187,64,0,0,528,041027,Universitas Komputer Indonesia,35201,S1,Teknik Perencanaan Wilayah Dan Kota
+146,6003816,0404047701,I MADE ARYANTHA A,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,126,0,166,16,0,0,528,041027,Universitas Komputer Indonesia,26201,S1,Teknik Industri
+147,6035959,0405028501,IRMA ROCHMAWATI,ID,lecturer,Asisten Ahli,,"S.Ds, M.Ds",S2,344,103,475,69,0,0,528,041027,Universitas Komputer Indonesia,90442,D3,Desain Grafis
+148,6656635,0405078601,GERALDI CATUR PAMUJI,ID,tutor,,,"S.Kom, M.Kom",S2,259,81,186,61,0,0,528,041027,Universitas Komputer Indonesia,57101,S2,Sistem Informasi
+149,6003989,0416116604,GABRIEL SIANTURI,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,720,74,480,75,0,0,528,041027,Universitas Komputer Indonesia,26201,S1,Teknik Industri
+150,259309,0001016601,MANAP SOLIHAT,ID,seniorlecturer,Lektor,Dr Drs.,M.Si,S3,189,29,822,120,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+151,258682,0417069002,ANNISA PARAMITHA F.,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,685,117,434,109,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+152,259224,0426066901,TRI RAHAJOENINGROEM,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,344,44,196,8,0,0,528,041027,Universitas Komputer Indonesia,20201,S1,Teknik Elektro
+153,258875,4201175080,AYUB SUBANDI,ID,lecturer,Asisten Ahli,,"S.Si, M.T, Ph.D",S3,708,91,211,67,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+154,258724,0402118701,NIZAR RABBI RADLIYA,ID,tutor,Asisten Ahli,,"S.Kom, M.Kom",S2,741,100,583,90,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+155,5998989,0428056601,ROMEIZA SYAFRIHARTI,ID,seniorlecturer,Lektor,Doctor of Philosophy Ir,M.T,S3,183,0,302,34,0,0,528,041027,Universitas Komputer Indonesia,35201,S1,Teknik Perencanaan Wilayah Dan Kota
+156,258666,0413058901,MIA FITRIAWATI,ID,tutor,Lektor,,"S.Kom, M.Kom",S2,517,179,458,160,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+157,258671,0410088802,RICHI DWI AGUSTIA,ID,lecturer,Asisten Ahli,,"S.Kom, M.Kom",S2,211,57,389,92,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+158,6006229,0419038102,ADIYANA SLAMET,ID,lecturer,Asisten Ahli,Dr,"S.IP, M.Si",S3,412,0,513,30,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+159,258860,0420088901,GENTISYA TRI MARDIANI,ID,tutor,Asisten Ahli,,"S.Kom, M.Kom",S2,233,0,357,37,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+160,6084709,0420068804,KANI MAHARDIKA,ID,tutor,Asisten Ahli,,"S.T, M.T",S2,56,0,59,0,0,0,528,041027,Universitas Komputer Indonesia,35201,S1,Teknik Perencanaan Wilayah Dan Kota
+161,258346,0404067401,JOHN ADLER,ID,assocprof,Lektor Kepala,,"S.Si, M.Si",S2,353,35,391,61,0,0,528,041027,Universitas Komputer Indonesia,56401,D3,Teknik Komputer
+162,6761166,0410059105,MOHAMMAD ALI,ID,lecturer,,,"S.Pd, M.A.",S2,91,69,310,139,0,0,528,041027,Universitas Komputer Indonesia,79204,S1,Sastra Jepang
+163,6006837,0412088701,TINE AGUSTIN WULANDARI,ID,lecturer,Lektor,,"S.I.Kom, M.I.Kom",S2,195,40,401,79,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+164,259267,0431087102,RISMAWATY,ID,seniorlecturer,Lektor,Dr,"S.Sos, M.Si",S3,444,0,459,33,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+165,258788,0424108103,RYANTY DERWENTYANA NAZHAR,ID,seniorlecturer,Lektor,,"S.Ds, M.Ds",S2,88,2,238,37,0,0,528,041027,Universitas Komputer Indonesia,90221,S1,Desain Interior
+166,5999124,0412048402,APRIANI PUTI PURFINI,ID,tutor,Lektor,,"S.Kom, M.T",S2,739,98,550,55,0,0,528,041027,Universitas Komputer Indonesia,57402,D3,Komputerisasi Akuntansi
+167,258730,0421028202,DENI ALBAR,ID,seniorlecturer,Lektor,,"S.Sn, M.Ds",S2,136,40,396,44,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+168,6803417,0404036901,NINA KURNIA HIKMAWATI,ID,tutor,Lektor,Dr,"S.S., M.Kom, M.M.",S3,248,102,128,50,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+169,258876,0415046906,TIARA ISFIATY,ID,seniorlecturer,Lektor,Dr,"S.Sn, M.Sn",S3,146,24,186,92,0,0,528,041027,Universitas Komputer Indonesia,90102,S2,Desain
+170,6762594,0403048804,NOVA CHANDRA ADITYA,ID,tutor,,,"S.T, M.T",S2,26,1,88,46,0,0,528,041027,Universitas Komputer Indonesia,23201,S1,Teknik Arsitektur
+171,6004121,0011126901,JUANDA,ID,assocprof,Lektor Kepala,Dr,"S.Pd, M.Pd",S3,521,122,361,73,0,0,528,041027,Universitas Komputer Indonesia,79202,S1,Sastra Inggris
+172,258700,0417018901,SATRIA INDRA PRAJA PERSADA,ID,tutor,Asisten Ahli,,"S.Ds, M.M.",S2,121,61,182,55,0,0,528,041027,Universitas Komputer Indonesia,90221,S1,Desain Interior
+173,6803107,41272001199,RIZKY JUMANSYAH,ID,penelitipertama,,,,,153,118,57,45,0,0,528,041027,Universitas Komputer Indonesia,0,,
+174,258820,0402107005,TAUFAN HIDAYATULLAH,ID,seniorlecturer,Lektor,Dr,"S.Sn, M.Ds",S3,83,0,298,43,0,0,528,041027,Universitas Komputer Indonesia,90102,S2,Desain
+175,258677,0423078401,WANTORO,ID,seniorlecturer,Lektor,,"S.Ds, M.Ds",S2,91,3,634,50,0,0,528,041027,Universitas Komputer Indonesia,90442,D3,Desain Grafis
+176,6005084,0419098603,ERNA SUSILAWATI,ID,tutor,Lektor,,"S.S., M.M.",S2,170,15,391,58,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+177,258648,0426128102,RIO YUNANTO,ID,seniorlecturer,Lektor,,"S.Kom, M.T",S2,887,212,792,233,0,0,528,041027,Universitas Komputer Indonesia,57402,D3,Komputerisasi Akuntansi
+178,6005290,0404017201,YASMI AFRIZAL,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,154,15,198,25,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+179,6776496,0401017305,MARI MARYATI,ID,lecturer,Lektor,,"S.E, M.M",S2,102,49,101,59,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+180,6770620,0424099202,MIA RAHMAWATI YUWITA,ID,lecturer,,,"S.Hum, M.App.Ling",S2,21,21,97,80,0,0,528,041027,Universitas Komputer Indonesia,79202,S1,Sastra Inggris
+181,258583,0425018301,ADI RACHMANTO,ID,seniorlecturer,Lektor,,"S.Kom, M.Kom",S2,234,117,309,103,0,0,528,041027,Universitas Komputer Indonesia,62401,D3,Akuntansi
+182,258217,0420128103,GALIH HERMAWAN,ID,lecturer,Asisten Ahli,,"S.Kom, M.T",S2,185,0,169,13,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+183,6004967,0409088105,ANDI HARAPAN,ID,seniorlecturer,Lektor Kepala,Dr,"S.T, M.T",S3,247,0,269,36,0,0,528,041027,Universitas Komputer Indonesia,23201,S1,Teknik Arsitektur
+184,6037936,0407058002,MUHAMMAD SYAHRIL ISKANDAR,ID,seniorlecturer,Lektor,,"S.Sn, M.Ds",S2,216,25,371,35,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+185,5973640,0421028401,FEBILITA WULAN SARI,ID,seniorlecturer,Lektor,,"S.H., M.H",S2,197,113,194,91,0,0,528,041027,Universitas Komputer Indonesia,74201,S1,Ilmu Hukum
+186,6006635,0401037701,BUDI MULYANA,ID,lecturer,Asisten Ahli,,"S.IP, M.Si",S2,24,0,104,40,0,0,528,041027,Universitas Komputer Indonesia,64201,S1,Ilmu Hubungan Internasional
+187,6731875,0427068802,SUGENG,ID,lecturer,Asisten Ahli,,"S.Kom, M.T",S2,136,72,138,57,0,0,528,041027,Universitas Komputer Indonesia,56201,S1,Sistem Komputer
+188,6004064,0618087501,ASIH PRIHANDINI,ID,seniorlecturer,Lektor,,"S.S., M.Hum",S2,81,0,192,63,0,0,528,041027,Universitas Komputer Indonesia,79202,S1,Sastra Inggris
+189,6200325,0408039401,ARIF TRY CAHYADI,ID,seniorlecturer,Lektor,,"S.Ds, M.Ds",S2,225,25,220,73,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+190,258733,0419066901,TATI HARIHAYATI MARDZUKI,ID,seniorlecturer,Lektor,,"S.T, M.T",S2,335,58,501,85,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+191,6721333,0427049201,FAKHRIAN FADLIA ADIWIJAYA,ID,lecturer,Asisten Ahli,,"S.Kom, M.Kom",S2,128,80,249,61,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+192,6132614,0431107003,WARTIKA,ID,seniorlecturer,Lektor,Dr,"S.Kom, M.T",S3,124,49,287,62,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+193,6748057,0415028405,FALDERIKA,ID,tutor,Asisten Ahli,,"S.T, M.T",S2,0,0,35,2,0,0,528,041027,Universitas Komputer Indonesia,22201,S1,Teknik Sipil
+194,258735,0414118302,UTAMI DEWI WIDIANTI,ID,tutor,Asisten Ahli,,"S.Kom, M.Kom",S2,302,0,398,38,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+195,6703644,0422059101,HENIKE PRIMAWANTI,ID,lecturer,Asisten Ahli,Dr,"S.IP, S.I.P., M.I.Pol., M",S3,172,44,54,29,0,0,528,041027,Universitas Komputer Indonesia,64201,S1,Ilmu Hubungan Internasional
+196,6719603,0417069202,CHRISMIKHA HARDYANTO,ID,tutor,Asisten Ahli,,"S.Kom, M.Kom",S2,46,41,174,76,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+197,6183101,0425058805,MERLINA FATIMAH NASRUDDIN,ID,tutor,Asisten Ahli,,"S.Ds, M.Ds",S2,36,0,59,26,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+198,6711698,8896780018,AELINA SURYA,ID,professor,Profesor,Dr Dr Dra Dra,,S3,21,0,30,28,0,0,528,041027,Universitas Komputer Indonesia,64201,S1,Ilmu Hubungan Internasional
+199,6738681,0412066803,YUNI DAHLIA YOSEPHA MOGOT,ID,lecturer,,Dr Ir,M.Si,S3,66,23,42,18,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+200,6783889,0415019401,AYU PRATIWI ULFAH,ID,tutor,,,"S.Hum, M.Hum",S2,0,0,23,20,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+201,6665452,0420048103,WAHYUDI,ID,seniorlecturer,Lektor,,"S.H., M.H",S2,430,66,346,149,0,0,528,041027,Universitas Komputer Indonesia,74201,S1,Ilmu Hukum
+202,5983808,0419117504,CITRA NOVIYASARI,ID,seniorlecturer,Lektor,,"S.Si, M.T",S2,74,0,178,41,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+203,6800294,0421037202,YAYAH SUTISNAWATI,ID,lecturer,Lektor,,"S.E, MM",S2,96,0,130,38,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+204,6728702,0428058303,ADITYO BASKORO HARDOYO,ID,tutor,Asisten Ahli,,"S.Sn, M.Ds",S2,132,96,133,44,0,0,528,041027,Universitas Komputer Indonesia,90442,D3,Desain Grafis
+205,5990453,0414118901,KEN KINANTI PURNAMASARI,ID,tutor,,,"S.Kom, M.T",S2,50,0,98,15,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+206,258669,0423087703,PITRI HARYANTI,ID,seniorlecturer,Lektor,Dr,"S.Pd, M.Pd",S3,42,3,180,43,0,0,528,041027,Universitas Komputer Indonesia,79204,S1,Sastra Jepang
+207,6006916,425027602,RIFIATI SAFARIAH,ID,seniorlecturer,,,,,109,0,55,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+208,5999425,0425127501,DEASY PERMATASARI,ID,seniorlecturer,Lektor,,"S.Si, M.T",S2,219,0,116,14,0,0,528,041027,Universitas Komputer Indonesia,57401,D3,Manajemen Informatika
+209,6804795,41277000023,SURYATNO W SOEGOTO,ID,lecturer,,,,,16,1,30,14,0,0,528,041027,Universitas Komputer Indonesia,0,,
+210,6006784,9904213182,DONNY REZA,ID,tutor,,,"S.Kom, M.Kom",S2,52,17,43,24,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+211,6803703,0417068902,JENI PUTRA,ID,tutor,,,"S.Pd, M.Pd, PhD",S3,73,7,82,10,0,0,528,041027,Universitas Komputer Indonesia,0,,
+212,6711079,0417079005,SAFUTRA RANTONA,ID,tutor,,,"S.I.Kom, M.I.Kom",S2,76,0,26,0,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+213,6004137,0404038403,NENDEN RIKMA DEWI,ID,tutor,,,,,23,21,20,6,0,0,528,041027,Universitas Komputer Indonesia,0,,
+214,6803507,0416078207,WIM TOHARI DANIEALDI,ID,tutor,,,"S.IP, M.Si",S2,16,0,11,6,0,0,528,041027,Universitas Komputer Indonesia,64201,S1,Ilmu Hubungan Internasional
+215,6048499,9900003743,SUBARNA,ID,assocprof,Lektor Kepala,Drs,,S3,0,0,6,5,0,0,528,041027,Universitas Komputer Indonesia,90102,S2,Desain
+216,6048481,9904211282,AHADIAT JOEDAWINATA,ID,tutor,,Dr Drs,M.Sn,S3,146,122,23,5,0,0,528,041027,Universitas Komputer Indonesia,90102,S2,Desain
+217,6788605,0427109101,AHMAD NURZAENI FAUZI,ID,tutor,Asisten Ahli,,"S.Ds, M.Ds",S2,1,0,53,3,0,0,528,041027,Universitas Komputer Indonesia,90442,D3,Desain Grafis
+218,6005151,41277006090,UTAMI DEWI WIDIANTI,ID,tutor,,,,,302,0,139,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+219,6666525,0404037304,EDI FIRDAUS,ID,lecturer,Lektor,Dr,"S.Kom, M.Kom",S3,99,75,145,108,0,0,528,041027,Universitas Komputer Indonesia,61201,S1,Manajemen
+220,6803421,0423127704,HADI PURNOMO,ID,lecturer,Asisten Ahli,,"S.E, M.M",S2,220,97,89,25,0,0,528,041027,Universitas Komputer Indonesia,61406,D3,Keuangan Dan Perbankan
+221,6035415,0407108706,DEDDY KURNIAWAN,ID,tutor,,,"S.Mb, M.A.B",S2,2,1,4,1,0,0,528,041027,Universitas Komputer Indonesia,0,,
+222,6006394,0428027202,ARINITA SANDRIA,ID,lecturer,Asisten Ahli,,"S.H., M.Hum",S2,102,0,51,1,0,0,528,041027,Universitas Komputer Indonesia,74201,S1,Ilmu Hukum
+223,6746292,0406069101,LINDA MEGA SILVIANA,ID,tutor,,,"S.Ds, M.Ds",S2,0,0,3,1,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+224,6756099,3273074509010005,ANNISA SUCI RAMADANI,ID,penelitimuda,,,,,0,0,1,1,0,0,528,041027,Universitas Komputer Indonesia,0,,
+225,6048459,9903011554,NANG PRIMADI TABRANI,ID,tutor,,,,,392,0,130,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+226,6005253,9904200830,RANGGA GELAR GUNTARA,ID,tutor,,,,,89,0,68,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+227,6029164,NIDNK,MAMAN KUSMAN,ID,lecturer,,,,,35,0,30,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+228,5981763,0405017504,GEMA ARIPRAHARA,ID,seniorlecturer,Lektor,,"S.Sn, M.Ds",S2,34,0,29,0,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+229,259202,0416078401,SANGRA JULIANO PRAKASA,ID,tutor,Asisten Ahli,,"S.I.Kom, M.I.Kom",S2,48,0,21,0,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+230,6685177,3217061711940013,ANTO PURWANTO,ID,tutor,,,,,1,0,6,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+231,5974595,0410078803,WIRA MAHARDIKA PUTRA,ID,lecturer,,,,,3,0,5,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+232,6763305,0408018302,RIZALUL KALAM,ID,tutor,,,,,6,0,4,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+233,6088457,0415097509,HERI GUNAWAN,ID,tutor,,Dr,"S.H., M.H",S3,0,0,4,0,0,0,528,041027,Universitas Komputer Indonesia,74201,S1,Ilmu Hukum
+234,5978448,41272004008,RISKA SRI RAHMAWATI,ID,tutor,,,,,3,0,3,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+235,258862,0418048403,ERICK WIJAYA,ID,tutor,,,,,5,0,3,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+236,6802984,0419059402,YUDISTIRA SOEGOTO,ID,tutor,,,"S.Kom, M.Kom",S2,21,16,8,5,0,0,528,041027,Universitas Komputer Indonesia,57201,S1,Sistem Informasi
+237,6803414,0408128903,YASUNDARI,ID,lecturer,Asisten Ahli,,"S.I.Kom, M.I.Kom",S2,73,67,55,52,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
+238,6747667,0412039301,MOCHAMAD EKKI HARDIAWA,ID,tutor,,,"S.Ds, M.Ds",S2,0,0,1,0,0,0,528,041027,Universitas Komputer Indonesia,90241,S1,Desain Komunikasi Visual
+239,6736482,0412077601,LIA YULIANTI,ID,tutor,Asisten Ahli,,"S.E., M.Pd",S2,0,0,1,0,0,0,528,041027,Universitas Komputer Indonesia,61406,D3,Keuangan Dan Perbankan
+240,6716068,2019210012,HADI KUSUMAH,ID,penelitipertama,,,,,0,0,0,0,0,0,528,041027,Universitas Komputer Indonesia,0,,
+241,6803400,0406069202,YONGKI ALEXANDER TANNE,ID,tutor,,,"S.T, M.T",S2,42,25,60,57,0,0,528,041027,Universitas Komputer Indonesia,22201,S1,Teknik Sipil
+242,6655639,0024125904,ZAINAL ARIFIN HASIBUAN,ID,professor,Profesor,Ir,Ph.D,S3,5801,1564,3442,517,0,0,528,041027,Universitas Komputer Indonesia,57101,S2,Sistem Informasi
+243,6926655,0023036801,BAMBANG SISWOYO,ID,seniorlecturer,Lektor,Ir,"M.Kom, M.Si, Ph.D",S3,299,178,130,43,0,0,528,041027,Universitas Komputer Indonesia,55201,S1,Teknik Informatika
+244,6908316,0419059303,NILUH AYU ANGGASWARI,ID,tutor,Asisten Ahli,,"S.I.Kom, M.I.Kom",S2,3,3,4,3,0,0,528,041027,Universitas Komputer Indonesia,70201,S1,Ilmu Komunikasi
