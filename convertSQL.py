@@ -536,7 +536,7 @@ if __name__ == "__main__":
         'host': 'localhost',     
         'user': 'root',          
         'password': '',    
-        'database': 'kp-penelitian-dosen', 
+        'database': 'academic_scraper', 
         'if_exists': 'replace' 
     }
     converter = AuthorWorksConverter(authorPath, worksPath)
