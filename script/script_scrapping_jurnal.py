@@ -16,7 +16,7 @@ session.headers.update(HEADERS)
 def scrape_scopus(id_sinta, max_page=1):
     results = []
 
-    for page in range(1, max_page + 1):
+    for page in range(1, max_page):
         url = f"{BASE}/{id_sinta}/?view=scopus&page={page}"
         print(f"SCOPUS | {id_sinta} | Page {page}")
 
@@ -69,13 +69,14 @@ def scrape_scopus(id_sinta, max_page=1):
 
             results.append({
                 "id_sinta": id_sinta,
-                "artikel": judul,
-                "link_url_article": link_url_article,  # ✅ Tambahan
+                "id_article": None,  
+                "title": judul,
+                "url": link_url_article,  # ✅ Tambahan
                 "tahun": tahun,
                 "quartile_jurnal": quartile,
                 "nama_jurnal": journal,
                 "author_order": author_order,
-                "creator": creator,
+                "creator/leader": creator,
                 "jumlah_cited": cited
             })
 
@@ -138,10 +139,10 @@ def scrape_research_or_service(id_sinta, view_name):
 
         results.append({
             "id_sinta": id_sinta,
-            "artikel": artikel,
-            "leader": leader,
-            "penerbit_pendanaan": penerbit,
-            "personils": personils,
+            "title": artikel,
+            "creator/leader": leader,
+            "penerbit/publisher": penerbit,
+            "authors": personils,
             "tahun": tahun,
             "pendanaan": pendanaan,
             "status": status,
@@ -223,9 +224,9 @@ def scrape_iprs(id_sinta, max_page=1):
 
             results.append({
                 "id_sinta": id_sinta,
-                "artikel": artikel,
-                "inventor": inventor,
-                "anggota": anggota,
+                "title": artikel,
+                "creator/leader": inventor,
+                "authors": anggota,
                 "tahun": tahun,
                 "nomor_permohonan": nomor_permohonan,
                 "status": status,
@@ -302,10 +303,10 @@ def scrape_books(id_sinta, max_page=1):
 
             results.append({
                 "id_sinta": id_sinta,
-                "judul_buku": judul,
+                "title": judul,
                 "category": category,
-                "penulis": penulis,
-                "publisher": publisher,
+                "authors": penulis,
+                "penerbit/publisher": publisher,
                 "tahun": tahun,
                 "kota": kota,
                 "isbn": isbn
@@ -400,16 +401,16 @@ def scrape_garuda(id_sinta, max_page=1):
 
             results.append({
                 "id_sinta": id_sinta,
-                "artikel": judul,
-                "link_artikel": link_artikel,
+                "title": judul,
+                "url": link_artikel,
                 "institusi": institusi,
                 "nama_jurnal": nama_jurnal,
-                "link_jurnal": link_jurnal,
+                "url": link_jurnal,
                 "author_order": author_order,
                 "authors": authors,
                 "tahun": tahun,
                 "doi": doi,
-                "akreditasi": akreditasi
+                "quartile_jurnal": akreditasi
             })
 
         time.sleep(1)
@@ -474,10 +475,10 @@ def scrape_google_scholar(id_sinta, max_page=1):
 
             results.append({
                 "id_sinta": id_sinta,
-                "judul": judul,
-                "link_url": link_url,
+                "title": judul,
+                "url": link_url,
                 "authors": authors,
-                "nama_jurnal": journal,
+                "penerbit/publisher": journal,
                 "tahun": tahun,
                 "jumlah_cited": cited
             })
@@ -520,13 +521,51 @@ def main():
         except Exception as e:
             print("ERROR:", sid, e)
 
-    pd.DataFrame(all_scopus).to_csv("SINTA_SCOPUS.csv", index=False, encoding="utf-8-sig")
-    pd.DataFrame(all_research).to_csv("SINTA_RESEARCHES.csv", index=False, encoding="utf-8-sig")
-    pd.DataFrame(all_services).to_csv("SINTA_SERVICES.csv", index=False, encoding="utf-8-sig")
-    pd.DataFrame(all_iprs).to_csv("SINTA_IPRS.csv", index=False, encoding="utf-8-sig")
-    pd.DataFrame(all_books).to_csv("SINTA_BOOKS.csv", index=False, encoding="utf-8-sig")
-    pd.DataFrame(all_garuda).to_csv("SINTA_GARUDA.csv", index=False, encoding="utf-8-sig")
-    pd.DataFrame(all_google_scholar).to_csv("SINTA_GOOGLE_SCHOLAR.csv", index=False, encoding="utf-8-sig")
+    # pd.DataFrame(all_scopus).to_csv("SINTA_SCOPUS.csv", index=False, encoding="utf-8-sig")
+    # pd.DataFrame(all_research).to_csv("SINTA_RESEARCHES.csv", index=False, encoding="utf-8-sig")
+    # pd.DataFrame(all_services).to_csv("SINTA_SERVICES.csv", index=False, encoding="utf-8-sig")
+    # pd.DataFrame(all_iprs).to_csv("SINTA_IPRS.csv", index=False, encoding="utf-8-sig")
+    # pd.DataFrame(all_books).to_csv("SINTA_BOOKS.csv", index=False, encoding="utf-8-sig")
+    # pd.DataFrame(all_garuda).to_csv("SINTA_GARUDA.csv", index=False, encoding="utf-8-sig")
+    # pd.DataFrame(all_google_scholar).to_csv("SINTA_GOOGLE_SCHOLAR.csv", index=False, encoding="utf-8-sig")
+
+        # =====================================================
+    # FULL GABUNGAN SEMUA VIEW
+    # =====================================================
+    df_scopus = pd.DataFrame(all_scopus)
+    df_scopus["source_view"] = "scopus"
+
+    df_research = pd.DataFrame(all_research)
+    df_research["source_view"] = "researches"
+
+    df_services = pd.DataFrame(all_services)
+    df_services["source_view"] = "services"
+
+    df_iprs = pd.DataFrame(all_iprs)
+    df_iprs["source_view"] = "iprs"
+
+    df_books = pd.DataFrame(all_books)
+    df_books["source_view"] = "books"
+
+    df_garuda = pd.DataFrame(all_garuda)
+    df_garuda["source_view"] = "garuda"
+
+    df_google = pd.DataFrame(all_google_scholar)
+    df_google["source_view"] = "google_scholar"
+
+    # Gabungkan semua
+    df_full = pd.concat([
+        df_scopus,
+        df_research,
+        df_services,
+        df_iprs,
+        df_books,
+        df_garuda,
+        df_google
+    ], ignore_index=True, sort=False)
+
+    df_full.to_csv("SINTA_FULL_GABUNGAN.csv", index=False, encoding="utf-8-sig")
+
     print("✅ SELESAI SEMUA VIEW")
 
 

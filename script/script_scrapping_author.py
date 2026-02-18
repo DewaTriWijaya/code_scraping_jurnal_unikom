@@ -76,9 +76,9 @@ def scrape_affiliation(page):
                 score[label.text.strip()] = val.text.strip()
 
         results.append({
+            "id_sinta": sid.text.replace("ID :", "").strip(),
             "nama": nama,
             "jurusan": dept.text.strip() if dept else "",
-            "id_sinta": sid.text.replace("ID :", "").strip(),
             "profile_url": profile_url,
             "scopus_hindex": hindex["scopus"],
             "gs_hindex": hindex["gs"],
