@@ -1,0 +1,7 @@
+C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\deps\tree_sitter_kotlin-d5aabf6515096bc6.d: C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\lib.rs C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\../../src/node-types.json C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\../../queries/highlights.scm
+
+C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\deps\libtree_sitter_kotlin-d5aabf6515096bc6.rmeta: C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\lib.rs C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\../../src/node-types.json C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\../../queries/highlights.scm
+
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\lib.rs:
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\../../src/node-types.json:
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-kotlin-0.3.8\bindings\rust\../../queries/highlights.scm:

@@ -1,0 +1,1 @@
+C:\Users\dewat\Desktop\Project\ Skripsi\ Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\kotlin_mi_analysis.exe: C:\Users\dewat\Desktop\Project\ Skripsi\ Agrimate\script-pengujian\kotlin_mi_analysis\src\main.rs

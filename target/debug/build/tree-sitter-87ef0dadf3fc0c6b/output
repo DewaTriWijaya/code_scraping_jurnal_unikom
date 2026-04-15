@@ -1,0 +1,245 @@
+cargo:rerun-if-env-changed=CARGO_FEATURE_WASM
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\alloc.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\alloc.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\array.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\atomic.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\clock.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\error_costs.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\get_changed_ranges.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\get_changed_ranges.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\host.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\language.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\language.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\length.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\lexer.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\lexer.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\lib.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\node.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\parser.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\parser.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\point.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\query.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\reduce_action.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\reusable_node.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\stack.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\stack.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\subtree.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\subtree.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\tree.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\tree.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\tree_cursor.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\tree_cursor.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\unicode
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\unicode.h
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\wasm
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\wasm_store.c
+cargo:rerun-if-changed=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\wasm_store.h
+OUT_DIR = Some(C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\build\tree-sitter-87ef0dadf3fc0c6b\out)
+OPT_LEVEL = Some(0)
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_ENCODED_RUSTFLAGS = Some()
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\deps;C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug;C:\Users\dewat\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Users\dewat\anaconda3;C:\Users\dewat\anaconda3\Library\mingw-w64\bin;C:\Users\dewat\anaconda3\Library\usr\bin;C:\Users\dewat\anaconda3\Library\bin;C:\Users\dewat\anaconda3\Scripts;C:\Users\dewat\anaconda3\bin;C:\Users\dewat\anaconda3\condabin;c:\Users\dewat\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\dewat\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\nodejs;%JAVA_HOME%\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\cloudflared;C:\Users\dewat\.cargo\bin;C:\Users\dewat\AppData\Local\Microsoft\WindowsApps;C:\Users\dewat\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dewat\AppData\Roaming\npm;c:\Users\dewat\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\scripts\noConfigScripts;C:\Users\dewat\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(true)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+OUT_DIR = Some(C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\build\tree-sitter-87ef0dadf3fc0c6b\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+OUT_DIR = Some(C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\build\tree-sitter-87ef0dadf3fc0c6b\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+OUT_DIR = Some(C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\build\tree-sitter-87ef0dadf3fc0c6b\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+OUT_DIR = Some(C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\build\tree-sitter-87ef0dadf3fc0c6b\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+lib.c
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./alloc.c(36): warning C4232: nonstandard extension used: 'ts_current_free': address of dllimport 'free' is not static, identity not guaranteed
+C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h(89): note: see declaration of 'free'
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.h(35): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.h(146): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.h(153): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./node.c(111): warning C4244: 'initializing': conversion from 'uint32_t' to 'TSSymbol', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./node.c(417): warning C4244: 'initializing': conversion from 'uint32_t' to 'TSSymbol', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./node.c(423): warning C4244: 'initializing': conversion from 'uint32_t' to 'TSSymbol', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./node.c(442): warning C4244: 'initializing': conversion from 'uint32_t' to 'TSSymbol', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./node.c(465): warning C4244: 'initializing': conversion from 'uint32_t' to 'TSSymbol', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./parser.c(349): warning C4100: 'lex_mode': unreferenced parameter
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./parser.c(396): warning C4244: 'function': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./parser.c(423): warning C4244: 'function': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./parser.c(446): warning C4244: 'function': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./parser.c(1120): warning C4244: '=': conversion from 'const uint32_t' to 'TSSymbol', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(339): warning C4244: '=': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(370): warning C4244: 'function': conversion from 'int32_t' to 'wint_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(385): warning C4244: 'function': conversion from 'int32_t' to 'wint_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(392): warning C4244: 'function': conversion from 'int32_t' to 'wint_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(470): warning C4244: 'return': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(792): warning C4244: 'return': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(1466): warning C4244: '=': conversion from 'unsigned int' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(1679): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(1791): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(1978): warning C4244: '=': conversion from 'unsigned int' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2004): warning C4244: '=': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2189): warning C4244: 'initializing': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2233): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2245): warning C4244: '=': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2246): warning C4244: '=': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2337): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2441): warning C4244: 'function': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2473): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2493): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2573): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2574): warning C4244: '=': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2587): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2588): warning C4244: '=': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2600): warning C4244: '=': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2614): warning C4244: '=': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2420): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2766): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2767): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2836): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2845): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2853): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(2942): warning C4244: 'function': conversion from 'int' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3099): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3162): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3166): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3257): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3308): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3318): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3366): warning C4244: 'function': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3392): warning C4018: '>': signed/unsigned mismatch
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3445): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3492): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3710): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3875): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3889): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3960): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3963): warning C4244: '=': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3964): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3978): warning C4244: 'function': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(3992): warning C4244: 'function': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(4031): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(4038): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(4095): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(4098): warning C4244: '=': conversion from 'const uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./query.c(4113): warning C4244: 'function': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(183): warning C4244: 'initializing': conversion from 'TSSymbol' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(186): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(184): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(187): warning C4244: 'initializing': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(233): warning C4244: '=': conversion from 'TSSymbol' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(495): warning C4244: '=': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(497): warning C4244: '=': conversion from 'uint32_t' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(536): warning C4244: 'initializing': conversion from 'unsigned int' to 'uint16_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(723): warning C4244: '=': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(724): warning C4244: '=': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(725): warning C4244: '=': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./subtree.c(726): warning C4244: '=': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\./tree_cursor.c(165): warning C4244: '=': conversion from 'uint32_t' to 'TSSymbol', possible loss of data
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\tree_cursor.c(215) : warning C4702: unreachable code
+C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\src\tree_cursor.c(256) : warning C4702: unreachable code
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rustc-link-search=native=C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\atlmfc\lib\x64
+cargo:rustc-link-lib=static=tree-sitter
+cargo:rustc-link-search=native=C:\Users\dewat\Desktop\Project Skripsi Agrimate\script-pengujian\kotlin_mi_analysis\target\debug\build\tree-sitter-87ef0dadf3fc0c6b\out
+cargo:include=C:\Users\dewat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.22.6\include
